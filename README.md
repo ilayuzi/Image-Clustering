@@ -1,2 +1,2 @@
 # Image Clustering - KMeans and DBSCAN
-In this project the application of KMeans and DBSCAN algorithms for image clustering tasks will be explored.
+This Python project implements image clustering pipeline using OpenCV, face_recognition and Scikit-learn. Starting with preprocessing and facial feature extraction, it uses Haar cascades for face recognition and clustering algorithms like KMeans and DBSCAN to group similar faces. Visualization techniques such as T-SNE help in understanding the clustered data, while comprehensive evaluation metrics evaluate the clustering performance. Overall, this project presents a systematic approach to image clustering, including preprocessing, feature extraction, clustering, visualization, and evaluation.
